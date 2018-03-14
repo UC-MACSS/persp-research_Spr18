@@ -3,7 +3,7 @@
 |  | [Dr. Richard Evans](https://sites.google.com/site/rickecon/) | [Dr. Benjamin Soltoff](http://www.bensoltoff.com/) | TBA (TA) | TBA (TA) |
 |---|---|---|----|---------|
 | Email | rwevans@uchicago.edu | soltoffbc@uchicago.edu | TBA | TBA |
-| Office | 208 McGiffert House | 207 McGiffert House | TBA | TBA |
+| Office | 208 McGiffert House | 209 McGiffert House | TBA | TBA |
 | Office Hours | W 2:30-4:30pm | Th 2-4pm | M 1-3pm  | F 11:30-1:30 |
 | GitHub | [rickecon](https://github.com/rickecon) | [bensoltoff](https://github.com/bensoltoff) | TBA | TBA |
 
