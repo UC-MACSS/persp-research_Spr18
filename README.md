@@ -50,7 +50,7 @@ If you need any special accommodations, please provide us with a copy of your Ac
 ## Course schedule (lite)
 
 | Date | Day | Topic | Assignment due dates |
-|--------|-----|----------------------------------------|---------------------------|
+|--------|-----|----------------------------------------|---------------------------------|
 | Mar 26 | M | Overview/reproducibility in science |  |
 | Mar 28 | W | Abstract/intro/conclusion |  |
 | Apr  2 | M | Theory section of paper |  |
@@ -64,21 +64,18 @@ If you need any special accommodations, please provide us with a copy of your Ac
 | Apr 30 | M | Deep learning with Python/R | PS2 |
 | May  2 | W | Deep learning with Python/R |  |
 | May  7 | M | Deep learning with Python/R |  |
-| May  9 | W | Deep learning with Python/R |  |
-| May 14 | M | Workshop papers/office visits |  |
-| May 16 | W | Effective presentations, poster,slides | PS3 |
+| May  9 | W | Deep learning with Python/R | Methods/initial results section |
+| May 14 | M | Workshop papers/office visits | PS3 |
+| May 16 | W | Effective presentations, poster,slides |  |
 | May 21 | M | Markov and hidden Markov models |  |
 | May 23 | W | Markov and hidden Markov models |  |
 | May 28 | M | **No class (Memorial Day Holiday)** | PS4 |
 | May 30 | W | In-class poster presentations | Poster |
 | Jun  6 | W | Final papers due at 5:00pm | Papers due |
 
-
 ## References and Readings ##
 
 All readings are required unless otherwise noted. Adjustments can be made throughout the quarter. Be sure to check this repository frequently to make sure you know all the assigned readings.
 
-* Diagnostic tests for OLS/GLM
-    * Ch 3.3.3 in [*An Introduction to Statistical Learning*](http://link.springer.com.proxy.uchicago.edu/book/10.1007%2F978-1-4614-7138-7)
 * Interaction terms
     * [Brambor, T., Clark, W. R., & Golder, M. (2006). Understanding interaction models: Improving empirical analyses. *Political analysis*, 63-82.](http://www.jstor.org.proxy.uchicago.edu/stable/25791835)
