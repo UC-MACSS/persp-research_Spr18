@@ -49,29 +49,29 @@ If you need any special accommodations, please provide us with a copy of your Ac
 
 ## Course schedule (lite)
 
-|   Date  | Day | Topic | Assignment due dates |
-|---------|-----|-------|----------------------|
-| Mar 26 | M | Overview/reproducibility in science  |     |
-| Mar 28 | W | Abstract/intro/conclusion            |     |
-| Apr  2 | M | Theory section of paper              |     |
+| Date | Day | Topic | Assignment due dates |
+|--------|-----|----------------------------------------|---------------------------|
+| Mar 26 | M | Overview/reproducibility in science |  |
+| Mar 28 | W | Abstract/intro/conclusion |  |
+| Apr  2 | M | Theory section of paper |  |
 | Apr  4 | W | Proposal presentations | Proposal slides & present |
-| Apr  9 | M | Data section of paper                |     |
-| Apr 11 | W | Computational results section of paper |   |
-| Apr 16 | M | Kernel density estimation            | PS1 |
-| Apr 18 | W | Interaction terms                    |     |
+| Apr  9 | M | Data section of paper |  |
+| Apr 11 | W | Computational results section of paper |  |
+| Apr 16 | M | Kernel density estimation | PS1 |
+| Apr 18 | W | Interaction terms |  |
 | Apr 23 | M | Parallel computing | Literature review section |
-| Apr 25 | W | Workshop papers/office visits        |     |
-| Apr 30 | M | Diagnostic tests                     | PS2 |
-| May  2 | W | Diagnostic tests                     |     |
-| May  7 | M | Missing data and multiple imputation |     |
-| May  9 | W |                                      |     |
-| May 14 | M | Workshop papers/office visits        |     |
+| Apr 25 | W | Workshop papers/office visits |  |
+| Apr 30 | M | Deep learning with Python/R | PS2 |
+| May  2 | W | Deep learning with Python/R |  |
+| May  7 | M | Deep learning with Python/R |  |
+| May  9 | W | Deep learning with Python/R |  |
+| May 14 | M | Workshop papers/office visits |  |
 | May 16 | W | Effective presentations, poster,slides | PS3 |
-| May 21 | M | Markov and hidden Markov models      |     |
-| May 23 | W | Markov and hidden Markov models      |     |
-| May 28 | M | **No class (Memorial Day Holiday)**  | PS4 |
-| May 30 | W | In-class poster presentations        | Poster |
-| Jun  6 | W | Final papers due at 5:00pm           | Papers due |
+| May 21 | M | Markov and hidden Markov models |  |
+| May 23 | W | Markov and hidden Markov models |  |
+| May 28 | M | **No class (Memorial Day Holiday)** | PS4 |
+| May 30 | W | In-class poster presentations | Poster |
+| Jun  6 | W | Final papers due at 5:00pm | Papers due |
 
 
 ## References and Readings ##
