@@ -79,3 +79,6 @@ All readings are required unless otherwise noted. Adjustments can be made throug
 
 * Interaction terms
     * [Brambor, T., Clark, W. R., & Golder, M. (2006). Understanding interaction models: Improving empirical analyses. *Political analysis*, 63-82.](http://www.jstor.org.proxy.uchicago.edu/stable/25791835)
+* Deep learning with Python/R
+    * [Chollet, F. (2017). *Deep learning with Python*. Manning Publications.](https://www.manning.com/books/deep-learning-with-python)
+    * [Chollet, F. with J.J. Allaire (2018). *Deep learning with R*. Manning Publications.](https://www.manning.com/books/deep-learning-with-r)
