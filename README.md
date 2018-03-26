@@ -1,11 +1,11 @@
 # MACS 30200 - Perspectives on Computational Research (Spring 2018)
 
-|  | [Dr. Richard Evans](https://sites.google.com/site/rickecon/) | [Dr. Benjamin Soltoff](http://www.bensoltoff.com/) | TBA (TA) | TBA (TA) |
+|  | [Dr. Richard Evans](https://sites.google.com/site/rickecon/) | [Dr. Benjamin Soltoff](http://www.bensoltoff.com/) | [Sushmita Gopalan]() (grader) | [Xingyun Wu]() (grader) |
 |---|---|---|----|---------|
-| Email | rwevans@uchicago.edu | soltoffbc@uchicago.edu | TBA | TBA |
-| Office | 208 McGiffert House | 209 McGiffert House | TBA | TBA |
-| Office Hours | W 2:30-4:30pm | Th 2-4pm | M 1-3pm  | F 11:30-1:30 |
-| GitHub | [rickecon](https://github.com/rickecon) | [bensoltoff](https://github.com/bensoltoff) | TBA | TBA |
+| Email | rwevans@uchicago.edu | soltoffbc@uchicago.edu | sushmitavgopalan@uchicago.edu | xywu@uchicago.edu |
+| Office | 208 McGiffert House | 209 McGiffert House |  |  |
+| Office Hours | W 2:30-4:30pm | Th 2-4pm |   |  |
+| GitHub | [rickecon](https://github.com/rickecon) | [bensoltoff](https://github.com/bensoltoff) | [sushmitavgopalan16](https://github.com/sushmitavgopalan16) |  |
 
 * **Meeting day/time**: MW 11:30am-1:20pm, Saieh Hall, Room 247
 * Office hours also available by appointment
