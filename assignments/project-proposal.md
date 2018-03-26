@@ -16,12 +16,10 @@
 
 ## Proposal format
 
-1. You should prepare a 5 minute presentation using slides
-    * Can be LaTeX Beamer slides
-    * Can be PowerPoint slides saved as a PDF
-    * Can be Keynote slides saved as a PDF
-    * Can be R Markdown slides saved as a PDF
-1. Submit your slides to your project repository on GitHub in the `Proposal` folder no later than 11:59pm, Tuesday, April 3
+1. You should prepare a [5 minute quasi-Ignite-style presentation](http://www.ignitetalks.io/) using slides
+    * Exactly **10 slides, auto-advancing every 30 seconds**
+    * Use any software you want to generate the slides **as long as you include a PDF version**
+1. Push your slides to your project repository on GitHub in the `Proposal` folder no later than 11:59pm, Tuesday, April 3
 
 ## Things to watch out for
 
