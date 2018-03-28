@@ -51,7 +51,7 @@ If you need any special accommodations, please provide us with a copy of your Ac
 
 | Date | Day | Topic | Reading | Assignment due dates |
 |--------|-----|---------------------------|-------------|---------------------------------|
-| Mar 26 | M | Overview/reproducibility in science |  |  |
+| Mar 26 | M | Overview/reproducibility in science | [Slides](https://github.com/UC-MACSS/persp-research_Spr18/blob/master/slides/fundamentals-slides.html) |  |
 | Mar 28 | W | Abstract/intro/conclusion | [Slides](https://github.com/UC-MACSS/persp-research_Spr18/blob/master/slides/IntroAbsConcl_slides.pdf) |  |
 | Apr  2 | M | Theory section of paper |  |  |
 | Apr  4 | W | Proposal presentations |  | Proposal slides & present |
