@@ -1,13 +1,14 @@
 # MACS 30200 - Perspectives on Computational Research (Spring 2018)
 
-|  | [Dr. Richard Evans](https://sites.google.com/site/rickecon/) | [Dr. Benjamin Soltoff](http://www.bensoltoff.com/) | [Sushmita Gopalan]() (grader) | [Xingyun Wu]() (grader) |
-|---|---|---|----|---------|
-| Email | rwevans@uchicago.edu | soltoffbc@uchicago.edu | sushmitavgopalan@uchicago.edu | xywu@uchicago.edu |
-| Office | 208 McGiffert House | 209 McGiffert House |  |  |
-| Office Hours | W 2:30-4:30pm | Th 2-4pm |   |  |
-| GitHub | [rickecon](https://github.com/rickecon) | [bensoltoff](https://github.com/bensoltoff) | [sushmitavgopalan16](https://github.com/sushmitavgopalan16) |  |
+|  | [Dr. Richard Evans](https://sites.google.com/site/rickecon/) | [Dr. Benjamin Soltoff](http://www.bensoltoff.com/) |
+|--------------|--------------------------------------------------------------|----------------------------------------------------|
+| Email | rwevans@uchicago.edu | soltoffbc@uchicago.edu |
+| Office | 208 McGiffert House | 209 McGiffert House |
+| Office Hours | W 2:30-4:30pm | Th 2-4pm |
+| GitHub | [rickecon](https://github.com/rickecon) | [bensoltoff](https://github.com/bensoltoff) |
 
 * **Meeting day/time**: MW 11:30am-1:20pm, Saieh Hall, Room 247
+* Graders: Sushmita V. Gopalan & Xingyun Wu
 * Office hours also available by appointment
 
 ## Course description
