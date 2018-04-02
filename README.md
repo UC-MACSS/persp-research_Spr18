@@ -53,7 +53,7 @@ If you need any special accommodations, please provide us with a copy of your Ac
 |--------|-----|---------------------------|-------------|---------------------------------|
 | Mar 26 | M | Overview/reproducibility in science | [Slides](https://github.com/UC-MACSS/persp-research_Spr18/blob/master/slides/fundamentals-slides.html) |  |
 | Mar 28 | W | Abstract/intro/conclusion | [Slides](https://github.com/UC-MACSS/persp-research_Spr18/blob/master/slides/IntroAbsConcl_slides.pdf) |  |
-| Apr  2 | M | Theory section of paper |  |  |
+| Apr  2 | M | Theory section of paper | [Slides](https://github.com/UC-MACSS/persp-research_Spr18/blob/master/slides/TheorySection_slides.pdf) |  |
 | Apr  4 | W | Proposal presentations |  | Proposal slides & present |
 | Apr  9 | M | Data section of paper |  |  |
 | Apr 11 | W | Computational results section of paper |  |  |
