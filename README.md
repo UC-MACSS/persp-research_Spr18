@@ -56,7 +56,7 @@ If you need any special accommodations, please provide us with a copy of your Ac
 | Mar 28 | W | Abstract/intro/conclusion | [Slides](https://github.com/UC-MACSS/persp-research_Spr18/blob/master/slides/IntroAbsConcl_slides.pdf) |  |
 | Apr  2 | M | Theory section of paper | [Slides](https://github.com/UC-MACSS/persp-research_Spr18/blob/master/slides/TheorySection_slides.pdf) |  |
 | Apr  4 | W | Proposal presentations |  | Proposal slides & present |
-| Apr  9 | M | Data section of paper |  |  |
+| Apr  9 | M | Data/methods section of paper |  |  |
 | Apr 11 | W | Computational results section of paper |  |  |
 | Apr 16 | M | Kernel density estimation |  | PS1 |
 | Apr 18 | W | Interaction terms |  |  |
@@ -78,6 +78,9 @@ If you need any special accommodations, please provide us with a copy of your Ac
 
 All readings are required unless otherwise noted. Adjustments can be made throughout the quarter. Be sure to check this repository frequently to make sure you know all the assigned readings.
 
+* Data/methods section
+    * [Broockman, D. E., & Skovron, C. (2018). Bias in Perceptions of Public Opinion among Political Elites. *American Political Science Review*, 1-22.](https://www.cambridge.org/core/journals/american-political-science-review/article/bias-in-perceptions-of-public-opinion-among-political-elites/2EF080E04D3AAE6AC1C894F52642E706/share/1bd83a8a05b6ac177c51e7a19aee1c55f3ef4b97)
+    * [Kalla, J. L., & Broockman, D. E. (2016). Campaign contributions facilitate access to congressional officials: A randomized field experiment. *American Journal of Political Science*, 60(3), 545-558.](https://onlinelibrary.wiley.com/doi/full/10.1111/ajps.12180)
 * Interaction terms
     * [Brambor, T., Clark, W. R., & Golder, M. (2006). Understanding interaction models: Improving empirical analyses. *Political analysis*, 63-82.](http://www.jstor.org.proxy.uchicago.edu/stable/25791835)
 * Deep learning with Python/R
