@@ -52,12 +52,12 @@ If you need any special accommodations, please provide us with a copy of your Ac
 
 | Date | Day | Topic | Reading | Assignment due dates |
 |--------|-----|---------------------------|-------------|---------------------------------|
-| Mar 26 | M | Overview/reproducibility in science | [Slides](https://github.com/UC-MACSS/persp-research_Spr18/blob/master/slides/fundamentals-slides.html) |  |
-| Mar 28 | W | Abstract/intro/conclusion | [Slides](https://github.com/UC-MACSS/persp-research_Spr18/blob/master/slides/IntroAbsConcl_slides.pdf) |  |
-| Apr  2 | M | Theory section of paper | [Slides](https://github.com/UC-MACSS/persp-research_Spr18/blob/master/slides/TheorySection_slides.pdf) |  |
+| Mar 26 | M | Overview/reproducibility in science | [Slides](slides/fundamentals-slides.html) |  |
+| Mar 28 | W | Abstract/intro/conclusion | [Slides](slides/IntroAbsConcl_slides.pdf) |  |
+| Apr  2 | M | Theory section of paper | [Slides](slides/TheorySection_slides.pdf) |  |
 | Apr  4 | W | Proposal presentations |  | [Proposal slides & present](assignments/project-proposal.md) |
-| Apr  9 | M | Data/methods section of paper |  |  |
-| Apr 11 | W | Computational results section of paper |  |  |
+| Apr  9 | M | Data/methods section of paper | [Slides](slides/data-methods-slides.html) |  |
+| Apr 11 | W | Computational results section of paper | [Slides](slides/results-slides.html) |  |
 | Apr 16 | M | Kernel density estimation |  | [PS1](ps1.md) |
 | Apr 18 | W | Interaction terms |  |  |
 | Apr 23 | M | Parallel computing |  | [Literature review section](assignments/lit-review.md) |
