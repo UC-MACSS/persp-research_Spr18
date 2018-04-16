@@ -4,7 +4,7 @@
 |---|---|---|----|---------|
 | Email | rwevans@uchicago.edu | soltoffbc@uchicago.edu | sushmitavgopalan@uchicago.edu | xywu@uchicago.edu |
 | Office | 208 McGiffert House | 209 McGiffert House |  |  |
-| Office Hours | W 2:30-4:30pm | Th 2-4pm |   |  |
+| Office Hours | W 2:30-4:30pm | Th 1-3pm |   |  |
 | GitHub | [rickecon](https://github.com/rickecon) | [bensoltoff](https://github.com/bensoltoff) | [sushmitavgopalan16](https://github.com/sushmitavgopalan16) |  |
 
 * **Meeting day/time**: MW 11:30am-1:20pm, Saieh Hall, Room 247
