@@ -59,7 +59,7 @@ If you need any special accommodations, please provide us with a copy of your Ac
 | Apr  9 | M | Data/methods section of paper | [Slides](slides/data-methods-slides.html) |  |
 | Apr 11 | W | Computational results section of paper | [Slides](slides/results-slides.html) |  |
 | Apr 16 | M | Kernel density estimation |  | [PS1](ps1.md) |
-| Apr 18 | W | Interaction terms |  |  |
+| Apr 18 | W | Interaction terms | [Notes](http://cfss.uchicago.edu/persp013_interaction_terms.html) |  |
 | Apr 23 | M | Parallel computing |  | [Literature review section](assignments/lit-review.md) |
 | Apr 25 | W | Workshop papers/office visits |  |  |
 | Apr 30 | M | Deep learning with Python/R |  | PS2 |
