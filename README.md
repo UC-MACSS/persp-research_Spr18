@@ -74,7 +74,7 @@ If you need any special accommodations, please provide us with a copy of your Ac
 | Apr 16 | M | Kernel density estimation | [Notes_a](https://github.com/UC-MACSS/persp-research_Spr18/blob/master/notebooks/KDE/KDE.ipynb) | [PS1](ps1.md) |
 |        |   |                           | [Notes_b](https://github.com/UC-MACSS/persp-research_Spr18/blob/master/notebooks/KDE/05.13-Kernel-Density-Estimation.ipynb) |   |
 | Apr 18 | W | Interaction terms | [Notes](http://cfss.uchicago.edu/persp013_interaction_terms.html) |  |
-| Apr 23 | M | Parallel computing |  | [Literature review section](assignments/lit-review.md) |
+| Apr 23 | M | Parallel computing | [Notes](https://github.com/UC-MACSS/persp-research_Spr18/blob/master/notebooks/Parallel/parallel.ipynb) | [Literature review section](assignments/lit-review.md) |
 | Apr 25 | W | Workshop papers/office visits |  |  |
 | Apr 30 | M | Deep learning with Python/R |  | [PS2](https://github.com/UC-MACSS/persp-research_Spr18/blob/master/assignments/PS2/PS2.pdf) |
 | May  2 | W | Deep learning with Python/R |  |  |
