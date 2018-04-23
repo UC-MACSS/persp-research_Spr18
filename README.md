@@ -43,6 +43,19 @@ Students will turn assignments in via their own public GitHub repository named `
   * FinalPaper
 
 
+## Late Problem Sets
+
+Late problem sets will be penalized 2 points for every hour they are late. For example, if an assignment is due on Monday at 11:30am, the following points will be deducted based on the time stamp of the last commit.
+
+| Example PR last commit | points deducted |
+| ---------------------- | --------------- |
+| 11:31am to 12:30pm     | -2 points       |
+| 12:31pm to 1:30pm      | -4 points       |
+| 1:31pm to 2:30pm       | -6 points       |
+| 2:31pm to 3:30pm       | -8 points       |
+| 3:30pm and beyond      | -10 points (no credit) |
+
+
 ## Disability services
 
 If you need any special accommodations, please provide us with a copy of your Accommodation Determination Letter (provided to you by the Student Disability Services office) as soon as possible so that you may discuss with me how your accommodations may be implemented in this course.
