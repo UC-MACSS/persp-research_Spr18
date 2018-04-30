@@ -76,7 +76,7 @@ If you need any special accommodations, please provide us with a copy of your Ac
 | Apr 18 | W | Interaction terms | [Notes](http://cfss.uchicago.edu/persp013_interaction_terms.html) |  |
 | Apr 23 | M | Parallel computing | [Notes](notebooks/Parallel/parallel.ipynb) | [Literature review section](assignments/lit-review.md) |
 | Apr 25 | W | Workshop papers/office visits |  |  |
-| Apr 30 | M | Missing data |  | [PS2](assignments/PS2/PS2.pdf) |
+| Apr 30 | M | Missing data | [Notes](http://cfss.uchicago.edu/persp014_missing_data.html) | [PS2](assignments/PS2/PS2.pdf) |
 | May  2 | W | Deep learning with Python/R |  |  |
 | May  7 | M | Deep learning with Python/R |  |  |
 | May  9 | W | Deep learning with Python/R |  | Methods/initial results section |
