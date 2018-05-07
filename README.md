@@ -78,7 +78,7 @@ If you need any special accommodations, please provide us with a copy of your Ac
 | Apr 25 | W | Workshop papers/office visits |  |  |
 | Apr 30 | M | Missing data | [Notes](http://cfss.uchicago.edu/persp014_missing_data.html) | [PS2](assignments/PS2/PS2.pdf) |
 | May  2 | W | Deep learning with Python/R | DL ch. 1-2 |  |
-| May  7 | M | Deep learning with Python/R | DL ch. 3  |  |
+| May  7 | M | Deep learning with Python/R | DL ch. 3-4  |  |
 | May  9 | W | Deep learning with Python/R |  | [Methods/initial results section](assignments/methods-results.md) |
 | May 14 | M | Workshop papers/office visits |  | PS3 |
 | May 16 | W | Effective presentations, poster,slides |  |  |
