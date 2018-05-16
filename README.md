@@ -81,7 +81,7 @@ If you need any special accommodations, please provide us with a copy of your Ac
 | May  7 | M | Deep learning with Python/R | DL ch. 3-4  |  |
 | May  9 | W | Deep learning with Python/R |  | [Methods/initial results section](assignments/methods-results.md) |
 | May 14 | M | Workshop papers/office visits |  |  |
-| May 16 | W | Effective presentations, poster,slides |  | [PS3](assignments/ps3.md) |
+| May 16 | W | Effective presentations, poster,slides | [Notes](http://cfss.uchicago.edu/persp018_presenting_research.html)  | [PS3](assignments/ps3.md) |
 | May 21 | M | Markov and hidden Markov models |  |  |
 | May 23 | W | Markov and hidden Markov models |  |  |
 | May 28 | M | **No class (Memorial Day Holiday)** |  | PS4 |
