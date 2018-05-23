@@ -84,7 +84,7 @@ If you need any special accommodations, please provide us with a copy of your Ac
 | May 16 | W | Effective presentations, poster,slides | [Notes](http://cfss.uchicago.edu/persp018_presenting_research.html)  | [PS3](assignments/ps3.md) |
 | May 21 | M | Markov and hidden Markov models |  |  |
 | May 23 | W | Markov and hidden Markov models |  |  |
-| May 28 | M | **No class (Memorial Day Holiday)** |  | PS4 |
+| May 28 | M | **No class (Memorial Day Holiday)** |  | [PS4](assignments/PS4/PS4.pdf) |
 | May 30 | W | In-class poster presentations |  | Poster |
 | Jun  6 | W | Final papers due at 5:00pm |  | Papers due |
 
